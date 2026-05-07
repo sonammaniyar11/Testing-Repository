@@ -1,6 +1,6 @@
 This is my first Git practice file.
 I am excited to see the results
-Updating file locally without pushing changes.Changing remotely.
+Updating file locally without pushing changes.Changing remotely.third line changhe from local to remote.
 I am excited to see the results in github
 Updating file directly on github.
 Updating file directly on github.Updating file directly on github.
